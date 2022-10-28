@@ -1,0 +1,20 @@
+
+
+@media (max-width:580px)
+{
+		.omnai
+	{
+		padding-left: 3.8rem!important;
+
+	}
+}
+
+@media only screen and (max-width: 600px) {
+    .w-75{
+      width : 100% !important;
+  
+  }
+  .star{
+      left : 0;
+  }
+  }
